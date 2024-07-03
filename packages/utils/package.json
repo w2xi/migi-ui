@@ -1,0 +1,10 @@
+{
+  "name": "@migi-ui/utils",
+  "private": true,
+  "version": "0.0.1",
+  "description": "migi-ui utils",
+  "main": "index.ts",
+  "module": "index.ts",
+  "author": "w2xi",
+  "license": "MIT"
+}

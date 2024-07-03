@@ -1,0 +1,12 @@
+{
+  "name": "@migi-ui/components",
+  "version": "0.0.1",
+  "description": "all components are settled here",
+  "main": "index.ts",
+  "module": "index.ts",
+  "peerDependencies": {
+    "vue": "^3.4.0"
+  },
+  "types": "index.d.ts",
+  "sideEffects": false
+}

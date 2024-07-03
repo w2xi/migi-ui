@@ -8,12 +8,16 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "play": "pnpm run -C play dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@migi-ui/components": "workspace:^",
+    "@migi-ui/theme-chalk": "workspace:^",
+    "@migi-ui/utils": "workspace:^",
     "vue": "^3.4.29"
   },
   "devDependencies": {
